@@ -1,0 +1,15 @@
+body{
+    background-color: #e9ebee; 
+    text-align: center;
+    margin: 0 auto;
+    font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+    font-size: 16px;
+}
+
+img{
+    max-width: 80%;
+}
+
+h1{
+        font-weight: lighter;
+}
